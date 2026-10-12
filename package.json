@@ -1,0 +1,25 @@
+{
+  "name": "react-native-group-chat-api",
+  "version": "1.0.0",
+  "description": "React Native Backend API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TsvetelinIliev/react-native-group-chat-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/TsvetelinIliev/react-native-group-chat-api/issues"
+  },
+  "homepage": "https://github.com/TsvetelinIliev/react-native-group-chat-api#readme",
+  "dependencies": {
+    "json-server": "^0.17.4",
+    "json-server-auth": "^2.1.0"
+  }
+}
